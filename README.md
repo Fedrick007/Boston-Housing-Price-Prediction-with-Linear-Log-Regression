@@ -216,4 +216,4 @@ This project demonstrates strong fundamentals in:
 
 ## 👤 Author
 
-Fedrick Samuek W - Software Engineer, Chennai, India.
+Fedrick Samuek W - Software Engineer, Banglore, India.
