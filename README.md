@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project analyzes housing prices in **Boston, Massachusetts (1970s)** using the classic **Boston Housing Dataset**.  
-We build and evaluate **multivariable linear regression models**, diagnose model assumptions using **residual analysis**, improve performance with **log transformation**, and use the final model to **estimate property prices under different scenarios**.
+I Build and evaluate **multivariable linear regression models**, diagnose model assumptions using **residual analysis**, improve performance with **log transformation**, and use the final model to **estimate property prices under different scenarios**.
 
 The focus is not only prediction accuracy, but also **model interpretability, diagnostics, and real-world reasoning**.
 
